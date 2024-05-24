@@ -10,7 +10,6 @@ The data used in this project is sourced from [provide data source, e.g., a CSV 
 
 Description
 The dataset contains the following columns:
-
       •	CustomerID: Unique identifier for each customer
       •	Gender: Gender of the customer
       •	Age: Age of the customer
